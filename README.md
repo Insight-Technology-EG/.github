@@ -1,4 +1,4 @@
-# ![Insight Technology Logo](Insight Logo.jpeg) Insight Technology
+# Insight Technology
 
 **Insight Technology** is a partnership company founded to play a key role in the digital transformation era across Egypt and the Middle East. With **17 years of experience** in Information Technology, we specialize in delivering high-quality enterprise solutions that are selected from the top international technology vendors. Our approach combines extensive expertise across different IT domains to ensure that our clients receive innovative, reliable, and impactful digital solutions.
 
